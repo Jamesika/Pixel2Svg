@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixel2Svg", "Pixel2Svg\Pixel2Svg.csproj", "{B021C776-3A42-45F9-9838-D4284574E96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B021C776-3A42-45F9-9838-D4284574E96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B021C776-3A42-45F9-9838-D4284574E96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B021C776-3A42-45F9-9838-D4284574E96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B021C776-3A42-45F9-9838-D4284574E96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3279164E-B1EE-4D9A-A4AA-668F0D469938}
+	EndGlobalSection
+EndGlobal
